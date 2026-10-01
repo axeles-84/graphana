@@ -61,3 +61,8 @@ CPU, память и диски.
 | 3 | Использование RAM | `node_memory_MemAvailable_bytes` | `memory.PNG` |
 | 4 | Свободное место | `node_filesystem_avail_bytes` | `freehdd.PNG` |
 | 5 | Занято на дисках | `node_filesystem_size_bytes` | `hdd.PNG` |
+
+
+# 📊 PS. 
+Дашборды алерты и графики можно настраивать до бесконечности!!! 
+
