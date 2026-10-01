@@ -8,7 +8,7 @@
 
 ![Пример алерта](https://github.com/axeles-84/graphana/blob/main/memory.png)
 
-![Пример алерта](https://github.com/axeles-84/graphana/blob/main/hdd.png)
+![Пример алерта](https://github.com/axeles-84/graphana/blob/main/freehdd.PNG)
 
 
 ![Пример алерта](https://github.com/axeles-84/graphana/blob/main/freehdd.png)
